@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SozlukProje</string>
+    <string name="searchViewTr">Kelime Ara</string>
+    <string name="searchViewEng">Search</string>
+    <string name="buttonTrKelimeAra">Türkçe Kelime Ara</string>
+    <string name="buttonEngKelimeAra">İngilizce Kelime Ara</string>
+</resources>
